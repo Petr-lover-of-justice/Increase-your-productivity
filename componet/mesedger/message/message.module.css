@@ -1,0 +1,9 @@
+.dialogue{
+    text-decoration: none;
+    color:black;
+    padding: 10px;
+}
+
+.dialogueMessage{
+display: flex;
+}

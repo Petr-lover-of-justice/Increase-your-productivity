@@ -1,0 +1,21 @@
+
+.footLogo{
+width: 500px;
+height: 100px;
+}
+.footInput{
+    margin-left: 40px;
+    margin-top: 15px;
+    max-width: 200px;
+    background-color: coral;
+}
+.footTitle{
+    max-width: 200px;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.footmessege{
+    max-width: 200px;
+    margin-top: 20px;
+    margin-left: 60px;
+}
